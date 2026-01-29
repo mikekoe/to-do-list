@@ -6,10 +6,11 @@ A simple Go-based to-do list program that demonstrates how to manage tasks in me
 
 ## Features
 
--  Display an initial list of tasks
+-  Prompts the user to enter commands (name, add-task, delete-task, mark-as-completed
 -  Add a new task to the list
--  Mark a task as completed using its index
+-  Mark a task as completed.
 -  Show task due dates (formatted as `YYYY-MM-DD`)
+- Shows updated tasklist
 
 
 ---
