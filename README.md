@@ -25,11 +25,12 @@ This program defines a `task` struct:
 
 
 ## Project Structure
+```text
 to-do-list
 └── main.go
 └── README.md
 └──go.mod
-
+```
 
 ## Requirements
 - Go installed on your PC (version 1.18+ recommended)
